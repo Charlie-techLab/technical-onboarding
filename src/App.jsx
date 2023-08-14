@@ -5,6 +5,7 @@
  */
 
 import React from "react";
+import Education from "./Components/Education";
 
 import About from "./Components/About";
 import Footer from "./Components/Footer";
@@ -50,4 +51,5 @@ const App = () => {
   );
 };
 
+<Education />;
 export default App;
