@@ -61,7 +61,7 @@ const Footer = (props) => {
         }}
       >
         {email && (
-          <a href={`mailto:${email}`}>
+          <a href={`mailto:${Charlie_coder@outlook.com}`}>
             <img src={envelopeIcon} alt="email" className="socialIcon" />
           </a>
         )}
@@ -71,7 +71,7 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/${Charlie-techLab}`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/${fernando-a-2a24591a1}`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -99,7 +99,7 @@ const Footer = (props) => {
           </a>
         )}
         {twitter && (
-          <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://twitter.com/${CarlosF51105598}`} target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="socialIcon" />
           </a>
         )}
