@@ -47,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I invite you to travel to the future through the time machine called vision which works with the powerful engine of imagination and the sparkling energy of ideas.";
+  "I invite you to travel to the future through the time machine called vision which works with the powerful engine of imagination, the twinkling energy of ideas and the brilliant flame of curiosity.";
 
 const About = () => {
   return (
