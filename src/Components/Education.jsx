@@ -25,12 +25,12 @@ const Education = () => {
             <p>
               <strong>Programming Languages</strong>
               <br />
-              <em>Java, C, C++, JavaScript, HTML, CSS, Python</em>
+              <em>C, C++, Java, Python</em>
             </p>
             <p>
               <strong>Technologies</strong>
               <br />
-              <em> SQL Server, Git, GitHub</em>
+              <em> Microsoft Azure, SQL Server, Git, GitHub, AZ900-Microsoft Azure Fundamentals certified</em>
             </p>
           </div>
         </div>
