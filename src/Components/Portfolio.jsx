@@ -53,8 +53,26 @@ const projectList = [
   {
     title: "Participation in an interview by DevRel University  🎥 ",
     description:
-      "Video interview about my learnings, ideas and reflections about the DevRel for Ambassadors series.",
-    url: "",
+      "Video interview about learnings, ideas and reflections about the DevRel for Ambassadors series.",
+    url: "https://www.youtube.com/watch?v=Z04WeRhBrnc",
+  },
+  {
+    title: "Investigation about 4 new algorithms  🧮💡📚 ",
+    description:
+      "This investigation was fueled by a deep curious and persistance.",
+    url: "https://onedrive.live.com/view.aspx?resid=C6473428C6667E36%21305&authkey=!AAh_Byiz-dkesZM",
+  },
+  {
+    title: "Ambassadors Projects Team Lead  🌎 ✨",
+    description:
+      "View my verified achievement from Microsoft MVP and Student Ambassadors Communities.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7142273756349034496/",
+  },
+  {
+    title: "Ambassadors Projects Participant 📚🎉💻",
+    description:
+      "View my verified achievement from Microsoft MVP and Student Ambassadors Communities.",
+    url: "https://www.linkedin.com/feed/update/urn:li:activity:7142270589867552768/",
   }
 ];
 
