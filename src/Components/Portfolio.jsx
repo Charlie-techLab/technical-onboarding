@@ -86,7 +86,7 @@ const projectList = [
     url: "https://github.com/microsoft/studentambassadors/issues/166",
     url: "https://github.com/microsoft/studentambassadors/issues/167",
     url: "https://github.com/microsoft/studentambassadors/issues/168",
-  }
+  },
   
 ];
 
