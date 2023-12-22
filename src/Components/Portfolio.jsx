@@ -32,7 +32,7 @@ const imageAltText = "A windmill with a full moon at the background in a beautif
 const projectList = [
   {
     title: "Open Source Contributor 🎉",
-    description: "Collaboration to translate a Codespaces template for teaching JavaScript.",
+    description: "Collaboration to translate a Codespaces template for teaching JavaScript in this new age of AI.",
     url: "https://github.com/education/codespaces-teaching-js-template",
   },
   {
@@ -69,11 +69,25 @@ const projectList = [
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7142273756349034496/",
   },
   {
-    title: "Ambassadors Projects Participant 📚🎉💻",
+    title: "Ambassadors Projects Participant 📚 🎉 💻",
     description:
       "View my verified achievement from Microsoft MVP and Student Ambassadors Communities.",
     url: "https://www.linkedin.com/feed/update/urn:li:activity:7142270589867552768/",
+  },
+  {
+    title: "Active Microsoft Bug Bash Participant 💻 🎯 🧐 👀 💡 ✔ 🎆",
+    description:
+      "View my 8 ideas taken into account to improve the user and learning experience in Microsoft Learn.",
+    url: "https://github.com/microsoft/studentambassadors/issues/114",
+    url: "https://github.com/microsoft/studentambassadors/issues/115",
+    url: "https://github.com/microsoft/studentambassadors/issues/116",
+    url: "https://github.com/microsoft/studentambassadors/issues/164",
+    url: "https://github.com/microsoft/studentambassadors/issues/165",
+    url: "https://github.com/microsoft/studentambassadors/issues/166",
+    url: "https://github.com/microsoft/studentambassadors/issues/167",
+    url: "https://github.com/microsoft/studentambassadors/issues/168"
   }
+  
 ];
 
 const Portfolio = () => {
