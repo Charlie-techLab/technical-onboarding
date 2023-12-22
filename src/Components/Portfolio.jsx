@@ -79,13 +79,6 @@ const projectList = [
     description:
       "View my 8 ideas taken into account by Microsoft to improve the user and learning experience in Microsoft Learn platform.",
     url: "https://github.com/microsoft/studentambassadors/issues/114",
-    url: "https://github.com/microsoft/studentambassadors/issues/115",
-    url: "https://github.com/microsoft/studentambassadors/issues/116",
-    url: "https://github.com/microsoft/studentambassadors/issues/164",
-    url: "https://github.com/microsoft/studentambassadors/issues/165",
-    url: "https://github.com/microsoft/studentambassadors/issues/166",
-    url: "https://github.com/microsoft/studentambassadors/issues/167",
-    url: "https://github.com/microsoft/studentambassadors/issues/168",
   },
   
 ];
