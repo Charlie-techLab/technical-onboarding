@@ -77,7 +77,7 @@ const projectList = [
   {
     title: "Active Microsoft Bug Bash Participant 💻 🎯 🧐 👀 💡 ✔ 🎆",
     description:
-      "View my 8 ideas taken into account to improve the user and learning experience in Microsoft Learn.",
+      "View my 8 ideas taken into account by Microsoft to improve the user and learning experience in Microsoft Learn platform.",
     url: "https://github.com/microsoft/studentambassadors/issues/114",
     url: "https://github.com/microsoft/studentambassadors/issues/115",
     url: "https://github.com/microsoft/studentambassadors/issues/116",
@@ -85,7 +85,7 @@ const projectList = [
     url: "https://github.com/microsoft/studentambassadors/issues/165",
     url: "https://github.com/microsoft/studentambassadors/issues/166",
     url: "https://github.com/microsoft/studentambassadors/issues/167",
-    url: "https://github.com/microsoft/studentambassadors/issues/168"
+    url: "https://github.com/microsoft/studentambassadors/issues/168",
   }
   
 ];
