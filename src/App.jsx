@@ -32,7 +32,7 @@ const siteProps = {
   instagram: "",
   linkedIn: "fernando-a-2a24591a1",
   medium: "",
-  twitter: "twitter.com/CarlosF51105598",
+  twitter: "CarlosF51105598",
   youTube: "",
 };
 
