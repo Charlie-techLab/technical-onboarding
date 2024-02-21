@@ -28,11 +28,11 @@ const siteProps = {
   name: "Fernando Aguilar",
   title: "Industrial Engineering & Information Systems Engineer",
   email: "charlie_coder@outlook.com",
-  gitHub: "https://github.com/Charlie-techLab",
+  gitHub: "Charlie-techLab",
   instagram: "",
-  linkedIn: "https://www.linkedin.com/in/carlos-fernando-a-2a24591a1/",
+  linkedIn: "fernando-a-2a24591a1",
   medium: "",
-  twitter: "https://twitter.com/CarlosF51105598",
+  twitter: "twitter.com/CarlosF51105598",
   youTube: "",
 };
 
